@@ -1,3 +1,3 @@
 datasciencecoursera
 ===================
-Love Music, Number and Piggies
+Love Music, Numbers and Piggies
